@@ -1,4 +1,3 @@
 /Dataset
 /models
-/Camera_Calibration/images/*.jpg
-
+/Camera_Calibrations/images/*.jpg
